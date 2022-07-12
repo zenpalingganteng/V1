@@ -1,4 +1,4 @@
-# V1
+# Zennn
 
 Cara Pemasangan ^^
 - apt update && apt ugrade
